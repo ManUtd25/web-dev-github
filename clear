@@ -1,0 +1,23 @@
+[33mcommit 2eecdfa4c47af2940585516cdbf2c808fa26f2fe[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Razvan <dummy@academind.com>
+Date:   Tue Oct 4 20:12:47 2022 +0300
+
+    updated test.txt
+
+[33mcommit 107feb62bbc6efd6a6cf3dbe9bbda82fb48a36f0[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Razvan <dummy@academind.com>
+Date:   Tue Oct 4 20:08:46 2022 +0300
+
+    added new feature
+
+[33mcommit 1a58464d258a7dbfcd184917850e66d7c197b3cf[m
+Author: Razvan <dummy@academind.com>
+Date:   Tue Oct 4 19:39:37 2022 +0300
+
+    change test.txt and added second-commit.txt
+
+[33mcommit aa2619e7a25181699b13ba9a42b11e0cf0c7ef35[m
+Author: Andries Razvan <razvan_25101983@yahoo.com>
+Date:   Tue Oct 4 19:30:00 2022 +0300
+
+    added text.txt file
